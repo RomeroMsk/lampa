@@ -111,7 +111,7 @@
 			'head_filter_show_premium': {name:Lampa.Lang.translate('premium'), element: '.open--premium'}, 
 			'head_filter_show_profile': {name: Lampa.Lang.translate('profile'), element: '.open--profile'}, 
 			'head_filter_show_feed': {name: Lampa.Lang.translate('feed'), element: '.open--feed'}, 
-			'head_filter_show_notice': {name: Lampa.Lang.translate('notice'), element: '.open--notice'},
+			'head_filter_show_notice': {name: Lampa.Lang.translate('notice'), element: '.notice--icon'},
 			'head_filter_show_broadcast': {name: Lampa.Lang.translate('broadcast'), element: '.open--broadcast'},
 			'head_filter_show_fullscreen': {name: Lampa.Lang.translate('fullscreen'), element: '.full-screen'}, 
 			'head_filter_show_reload': {name: Lampa.Lang.translate('reload'), element: '.m-reload-screen'},
