@@ -98,7 +98,7 @@
 	function startPlugin() {
 		var manifest = {
 			type: 'other',
-			version: '0.2.0',
+			version: '0.2.1',
 			name: Lampa.Lang.translate('name_plugin'),
 			description: Lampa.Lang.translate('plugin_description'),
 			component: 'head_filter',
@@ -116,7 +116,7 @@
 			'head_filter_show_fullscreen': {name: Lampa.Lang.translate('fullscreen'), element: '.full-screen'}, 
 			'head_filter_show_reload': {name: Lampa.Lang.translate('reload'), element: '.m-reload-screen'},
 			'head_filter_show_blackfriday': {name: Lampa.Lang.translate('blackfriday'), element: '.black-friday__button'}, 
-			'head_filter_show_split': {name: Lampa.Lang.translate('split'), element: '.head__split'}, 
+			'head_filter_show_split': {name: Lampa.Lang.translate('split'), element: '.head__markers'}, 
 			'head_filter_show_time': {name: Lampa.Lang.translate('time'), element: '.head__time'}, 
 		};
 
